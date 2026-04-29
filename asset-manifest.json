@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wisywereact/static/css/main.7f62b1f1.css",
+    "main.js": "/wisywereact/static/js/main.d114845a.js",
+    "static/js/453.2bba52b8.chunk.js": "/wisywereact/static/js/453.2bba52b8.chunk.js",
+    "index.html": "/wisywereact/index.html",
+    "main.7f62b1f1.css.map": "/wisywereact/static/css/main.7f62b1f1.css.map",
+    "main.d114845a.js.map": "/wisywereact/static/js/main.d114845a.js.map",
+    "453.2bba52b8.chunk.js.map": "/wisywereact/static/js/453.2bba52b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f62b1f1.css",
+    "static/js/main.d114845a.js"
+  ]
+}
